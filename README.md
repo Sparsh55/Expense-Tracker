@@ -5,7 +5,8 @@ Expense Tracker
 [screen-capture (14).webm](https://github.com/user-attachments/assets/08323df8-0e2a-4dc5-b0a1-8730c6389c9e)
 
 IntroVideo:-
-[screen-capture (15).webm](https://github.com/user-attachments/assets/f524899a-0641-49eb-926d-7cc0d452eda8)
+
+
 
 
 Welcome to the Expense Tracker App! This is a full MERN (MongoDB, Express, React, Node.js) stack application designed to help you manage your expenses efficiently and effortlessly.
